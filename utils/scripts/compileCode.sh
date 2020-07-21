@@ -1,1 +1,1 @@
-./utils/SmartPyBasic/SmartPy.sh compile ./contract/demo.py "MyContract(10, 123)" ./contract_build
+./utils/smartpy-cli/SmartPy.sh compile ./contract/demo.py "FA12(sp.address('tz1NN5QooJWkW44KFfrXqLRaxEa5Wxw3f9FF'))" ./contract_build
